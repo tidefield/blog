@@ -1,0 +1,84 @@
+---
+import Nav from "../components/Nav.astro";
+
+const { title } = Astro.props;
+const currentPath = Astro.url.pathname;
+---
+
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+        <meta name="viewport" content="width=device-width" />
+        <meta name="generator" content={Astro.generator} />
+        <title>{title}</title>
+        <style is:global>
+            :root {
+                --max-width: 680px;
+                --spacing-x: 2rem;
+                --spacing-y: 3rem;
+            }
+            * {
+                box-sizing: border-box;
+                margin: 0;
+                padding: 0;
+            }
+            body {
+                font-family:
+                    system-ui,
+                    -apple-system,
+                    sans-serif;
+                line-height: 1.7;
+                color: #333;
+                max-width: var(--max-width);
+                margin: 0 auto;
+                padding: var(--spacing-y) var(--spacing-x);
+            }
+            @media (max-width: 768px) {
+                body {
+                    padding: 2rem 1.5rem;
+                }
+            }
+            a {
+                color: #0066cc;
+                text-decoration: none;
+            }
+            a:hover {
+                text-decoration: underline;
+            }
+            main {
+                margin-top: 2rem;
+            }
+            ul,
+            ol {
+                list-style-position: inside;
+            }
+            p {
+                margin-bottom: 1rem;
+            }
+            h1,
+            h2,
+            h3,
+            h4,
+            h5,
+            h6 {
+                margin-top: 2rem;
+                margin-bottom: 1rem;
+            }
+            h1:first-child,
+            h2:first-child,
+            h3:first-child {
+                margin-top: 0;
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <Nav currentPath={currentPath} />
+        </header>
+        <main>
+            <slot />
+        </main>
+    </body>
+</html>
