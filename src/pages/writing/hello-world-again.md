@@ -7,7 +7,7 @@ description: "Five years after my last blog post, I'm writing in public again"
 
 # Hello world, again
 
-The last time I wrote a blog post was five years ago. I was a year out of college, working at FullStory as the 20th-something engineer. I remember iterating on that blog post countless times based on my colleagues' feedback.
+The last time I wrote [a blog post](https://www.fullstory.com/blog/lessons-learned-at-fullstory/) was five years ago. I was a year out of college, working at FullStory as the 20th-something engineer. I remember iterating on that blog post countless times based on my colleagues' feedback.
 
 English isn't my native language. Writing a "publishable" blog post always mandates tons of time. But every so often I'd get that nudge: "let's write something." I'd sit down, ready to draft, but the spark would be gone. My thoughts wouldn't organize into paragraphs. By the next morning, other priorities had already taken over.
 
@@ -18,6 +18,11 @@ It's January of 2026. Looking back, I always wanted to become a better writer. A
 My life took a downturn in 2023. I hit my rock bottom and was diagnosed with major depressive disorder in early 2024. I was stuck in the cycle of insomnia, bad days at work, and regret.
 
 On paper, I had everything my younger self would have admired: a part-time teaching gig at a university, a dream job at Google. I loved my work. But I couldn't hold onto everything I loved anymore. I took a break from corporate and travelled across India, Bhutan, Vietnam, Singapore, and Thailand. My therapist told me: "To break the cycle, change your environment if you can." She was right. Traveling did something good to my mind.
+
+<figure>
+  <img src="/images/Bhutan.jpg" alt="Bhutan, Summer of 2024">
+  <figcaption>Bhutan, Summer of 2024</figcaption>
+</figure>
 
 In between my travels, I found a role at a startup that let me split time between the US and Vietnam. In the second half of 2024, all aspects of my life started to change. In the morning, I biked to a coffee shop for a $1 cup of coffee, spoke my native language (Vietnamese) on the streets (something I hadn't done regularly in 14 years), and spent weekends in Singapore and northern Vietnam and at mindfulness centers.
 
