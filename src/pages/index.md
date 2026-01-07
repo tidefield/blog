@@ -5,7 +5,7 @@ title: "About"
 
 Hi, welcome to my little internet corner!
 
-I'm Vinh. In 2026, I want to start learning. This space is where I document my learning journey.
+I'm Vinh. This space is where I document my learn in public journey.
 
 You can find me on:
 

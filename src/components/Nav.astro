@@ -4,7 +4,9 @@ const { currentPath } = Astro.props;
 
 <nav>
     <a href="/" class={currentPath === "/" ? "active" : ""}>About</a>
-    <a href="/posts" class={currentPath === "/posts" ? "active" : ""}>Posts</a>
+    <a href="/writing" class={currentPath === "/writing" ? "active" : ""}
+        >Writing</a
+    >
 </nav>
 
 <style>
