@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/PostLayout.astro
-title: "Hello world, again"
+title: "Hello world, again!"
 date: "2026-01-07"
-description: "Five years after my last blog post, I'm writing in public again"
+description: "Coming back to blogging after five years"
 image: "/images/Bhutan.jpg"
 ---
 
@@ -10,7 +10,7 @@ The last time I wrote [a blog post](https://www.fullstory.com/blog/lessons-learn
 
 English isn't my native language. Writing a "publishable" blog post always mandates tons of time. But every so often I'd get that nudge: "let's write something." I'd sit down, ready to draft, but the spark would be gone. My thoughts wouldn't organize into paragraphs. By the next morning, other priorities had already taken over.
 
-It's January of 2026. Looking back, I always wanted to become a better writer. After many new years have passed and after recovering from depression, I finally feel ready to be curious again.
+Looking back, I always wanted to become a better writer. After many new years have passed and after recovering from depression, I finally feel ready to be curious again.
 
 ## Recovering from depression
 
@@ -35,6 +35,6 @@ I stumbled into developer tools the same way. At FullStory, another senior engin
 
 My career path keeps pivoting so much that I don't claim to be an expert in anything. I guess that's the nature of this profession. Or perhaps that's what they call "generalist"? But as I progressed in my career and as I recovered from mental issues, my focus became more clear. I'm leaning into learning things at a fundamental level; nailing music scales instead of just playing chords for popular songs, finding commonalities between build systems, or even finding gaps in existing language tools and contributing to fill those gaps.
 
-In 2026 and beyond, I'll study things that are fundamental and won't go out of fashion quickly. Along the way, I'll learn to embrace discomfort and failure.
+In 2026 and beyond, I'll study things that are fundamental and won't go out of fashion quickly. Along the way, I'll learn to embrace imperfection, discomfort, and failure.
 
 So here I am. Hello world, again!
