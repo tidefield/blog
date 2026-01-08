@@ -3,6 +3,7 @@ layout: ../../layouts/PostLayout.astro
 title: "Hello world, again"
 date: "2026-01-07"
 description: "Five years after my last blog post, I'm writing in public again"
+image: "/images/Bhutan.jpg"
 ---
 
 # Hello world, again
