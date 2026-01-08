@@ -6,8 +6,6 @@ description: "Five years after my last blog post, I'm writing in public again"
 image: "/images/Bhutan.jpg"
 ---
 
-# Hello world, again
-
 The last time I wrote [a blog post](https://www.fullstory.com/blog/lessons-learned-at-fullstory/) was five years ago. I was a year out of college, working at FullStory as the 20th-something engineer. I remember iterating on that blog post countless times based on my colleagues' feedback.
 
 English isn't my native language. Writing a "publishable" blog post always mandates tons of time. But every so often I'd get that nudge: "let's write something." I'd sit down, ready to draft, but the spark would be gone. My thoughts wouldn't organize into paragraphs. By the next morning, other priorities had already taken over.

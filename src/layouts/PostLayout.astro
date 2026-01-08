@@ -14,11 +14,6 @@ const { title, date, description, image } = frontmatter;
                     <time style="color: #666; font-size: 0.9rem;">{date}</time>
                 )
             }
-            {
-                description && (
-                    <p style="margin-top: 1rem; color: #555;">{description}</p>
-                )
-            }
         </header>
         <div style="line-height: 1.8;">
             <slot />
