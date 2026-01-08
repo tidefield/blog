@@ -5,7 +5,7 @@ title: "About"
 
 Hi, welcome to my little internet corner!
 
-I'm Vinh. This space is where I document my learn in public journey.
+I'm Vinh. This space is where I share my continuous journey of learning about fundamentals and software craft.
 
 You can find me on:
 

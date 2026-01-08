@@ -19,7 +19,7 @@ export async function GET(context) {
   return rss({
     title: "Tide Field By Vinh",
     description:
-      "Learning in public about fundmentals, software craft, guitar, and more",
+      "A space to share my continuous journey of learning about fundamentals and software craft",
     site: context.site,
     items,
   });
