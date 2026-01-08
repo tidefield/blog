@@ -3,7 +3,7 @@ layout: ../layouts/BaseLayout.astro
 title: "Subscribe"
 ---
 
-Enter your email if you'd like to be kept in the loop about future articles!
+Enter your email if you'd like to be kept in the loop about future articles
 
 <form
   action="https://buttondown.com/api/emails/embed-subscribe/tidefield"
