@@ -1,15 +1,16 @@
 ---
 layout: ../layouts/BaseLayout.astro
-title: "About"
+title: "Tide Field"
 ---
 
-Hi, welcome to my little internet corner!
+Welcome to Tide Field!
 
-I'm Vinh. This space is where I share my continuous journey of learning about fundamentals and software craft.
+This is my space on the internet. My writing is hosted at [writing.tidefield.dev](/).
 
-You can find me on:
+---
 
-* Github: [tidefield](https://github.com/tidefield)
-* Bluesky: [@tidefield.dev](https://bsky.app/profile/tidefield.dev)
-* LinkedIn: [tidefield](https://www.linkedin.com/in/tidefield/)
-* Email: hi `@` this-domain
+### Quick Links
+
+- [My Writing](https://writing.tidefield.dev) - Blog posts and articles
+- [Subscribe](https://writing.tidefield.dev/subscribe) - Get updates via email
+- [Search](https://writing.tidefield.dev/search) - Find posts
