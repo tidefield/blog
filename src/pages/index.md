@@ -1,16 +1,22 @@
 ---
 layout: ../layouts/BaseLayout.astro
-title: "Tide Field"
+title: "Work in Progress"
 ---
 
-Welcome to Tide Field!
+# Work in Progress
 
-This is my space on the internet. My writing is hosted at [writing.tidefield.dev](/).
+I am currently rebuilding this website.
+
+**My writing is now at [writing.tidefield.dev](https://writing.tidefield.dev)** where I share articles about software development and my learning journey.
 
 ---
 
-### Quick Links
+### Recent Posts
 
-- [My Writing](https://writing.tidefield.dev) - Blog posts and articles
+- [A year for self-discovery](https://writing.tidefield.dev/self-discovery) - 2026-01-21
+- [Hello world, again!](https://writing.tidefield.dev/hello-world-again) - 2026-01-07
+
+### Other Pages
+
 - [Subscribe](https://writing.tidefield.dev/subscribe) - Get updates via email
 - [Search](https://writing.tidefield.dev/search) - Find posts

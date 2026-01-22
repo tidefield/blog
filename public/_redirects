@@ -1,0 +1,2 @@
+# Redirect old writing URLs to subdomain
+/writing/* https://writing.tidefield.dev/:splat 301
