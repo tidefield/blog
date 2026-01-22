@@ -1,2 +1,5 @@
 # Redirect old writing URLs to subdomain
 /writing/* https://writing.tidefield.dev/:splat 301
+
+# Redirect RSS feed to writing subdomain
+/rss.xml https://writing.tidefield.dev/rss.xml 301
